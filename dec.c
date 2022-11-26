@@ -5,7 +5,7 @@
  * @div: multiple of 10
  * @length: length of number
  * @n: number to convert to string
- * Return: string
+ * Return: ring
  **/
 char *_itos(int div, int length, int n)
 {
